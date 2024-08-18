@@ -1,0 +1,98 @@
+	Group/Measurement	Value	Norm	Std Dev	DevNorm
+Скелетные параметры
+	ANB (є)	    6.0	    2.0	    2.0	    2.0	**
+	Beta Angle (є)	   23.5	   31.0	    4.0	   -1.9	*
+	Wits Appraisal (mm)	    4.0	   -0.4	    2.5	    1.8	*
+	B to A Point Arc	   -4.4	    0.0	    3.0	   -1.5	*
+	Anteroposterior Dysplasia (APDI)	   73.1	   81.4	    5.0	   -1.7	*
+
+Параметры основания черепа
+	Anterior Cranial Base (SN) (mm)	   66.0	   68.2	    2.5	   -0.9	
+	FH - SN (є)	    9.0	    6.0	    4.0	    0.7	
+	Ba-S-N (є)	  127.0	  130.0	    5.0	   -0.6	
+
+Параметры верхней челюсти
+	PNS-A (mm)	   44.9	   49.0	    3.5	   -1.2	*
+	SNA (є)	   82.5	   82.0	    3.0	    0.2	
+	Cranio-Mx Base/SN-Palatal Plane (є)	    8.0	    8.0	    3.0	    0.0	
+
+Параметры нижней челюсти
+	Mandibular Body Length (Go-Me) (mm)	   60.1	   82.0	    5.0	   -4.4	****
+	Co-Go (mm)	   58.5	   55.0	    3.0	    1.2	*
+	Pog - NB (mm)	    0.7	    1.7	    1.2	   -0.8	
+	B - Pog perp to MP (mm)	    6.6	    5.6	    2.0	    0.5	
+	SNB (є)	   76.5	   80.0	    3.0	   -1.2	*
+	MP - SN (є)	   31.5	   32.0	    4.0	   -0.1	
+
+Вертикальные параметры
+	S-Go (mm)	   74.5	   74.0	    5.0	    0.1	
+	Total Face Height (N-Gn) (mm)	  108.1	  112.0	    6.0	   -0.6	
+	Upper Face Height (N-ANS) (mm)	   52.8	   50.0	    2.5	    1.1	*
+	Lower Face Height (ANS-Gn) (mm)	   59.3	   65.0	    4.5	   -1.3	*
+
+Зубоальвеолярная высота
+	U1 - PP (UADH) (mm)	   26.4	   28.0	    3.0	   -0.5	
+	L1 - MP (LADH) (mm)	   37.4	   40.0	    2.0	   -1.3	*
+	U6 - PP (UPDH) (mm)	   18.8	   23.0	    2.0	   -2.1	**
+	L6 - MP (LPDH) (mm)	   29.1	   31.0	    2.0	   -1.0	*
+
+Параметры наклона и положения зубов
+	Interincisal Angle (U1-L1) (є)	  117.0	  130.0	    6.0	   -2.2	**
+	Overbite (mm)	    5.0	    2.5	    2.0	    1.3	*
+	Overjet (mm)	    6.6	    2.5	    2.5	    1.6	*
+	U1 - SN (є)	  105.0	  102.5	    5.5	    0.4	
+	U1 - Palatal Plane (є)	  113.0	  110.0	    5.0	    0.6	
+	U1 - NA (mm)	    4.4	    4.0	    2.0	    0.2	
+	U1 - NA (є)	   22.4	   22.0	    4.0	    0.1	
+	IMPA (L1-MP) (є)	  106.6	   95.0	    5.0	    2.3	**
+	L1 - NB (mm)	    6.4	    5.0	    3.0	    0.5	
+	L1 - NB (є)	   34.6	   25.0	    4.0	    2.4	**
+	U6 - PT Vertical (mm)	   20.4	   18.0	    3.0	    0.8	
+
+Мягкотканные параметры
+	Facial Convexity (G'-Sn-Po') (є)	   26.9	   12.0	    2.0	    7.4	******
+	Upper Lip to E-Plane (mm)	   -2.2	   -4.0	    2.0	    0.9	
+	Lower Lip to E-Plane (mm)	   -0.6	   -2.0	    2.0	    0.7	
+	Nasolabial Angle (Col-Sn-UL) (є)	   94.7	  102.0	    8.0	   -0.9	
+
+Параметры оценки типа роста
+	SGo/NGn (%)	   67.7	   63.0	    2.0	    2.4	**
+	MP - SN (є)	   31.5	   32.0	    4.0	   -0.1	
+	Palatal-Mand Angle (PP-MP) (є)	   23.5	   25.0	    6.0	   -0.2	
+	Facial Axis-Ricketts (NaBa-PtGn)(є)	   86.6	   90.0	    3.0	   -1.1	*
+	 Lower Gonial Angle (Na-Go-Me) (є)	   72.0	   75.0	    3.0	   -1.0	*
+	Sum Total: N-S-Art + S-Art-Go + Art-Go-Me (є)	  391.5	  396.0	    4.0	   -1.1	*
+	Y-Axis -- Downs (SGn-FH) (є)	   60.1	   59.4	    3.8	    0.2	
+
+Воздухоносные пути
+	Upper Airway: Naso-pharyngeal	   13.4	   13.0	    5.0	    0.1	
+	Lower Airway: Oro-pharyngeal	    3.5	   11.0	    3.0	   -2.5	**
+
+Параметры для расчета идеальной высоты
+	FMA (MP-FH) (є)	   22.5	   26.0	    4.0	   -0.9	
+	Facial Axis-Ricketts (NaBa-PtGn)(є)	   86.6	   90.0	    3.0	   -1.1	*
+	Lower Face Height (ANS-Xi-Pm)(є)	   42.0	   45.0	    4.0	   -0.8	
+
+Параметры из расчета Kim
+	Anteroposterior Dysplasia (APDI)	   73.1	   81.4	    5.0	   -1.7	*
+	Facial Angle (FH-NPo) (є)	   85.9	   88.0	    3.0	   -0.7	
+	NF - FH (PP-FH) (є)	   -1.0	    1.0	    3.0	   -0.7	
+	AB - NPo (є)	   11.7	   -4.0	    2.0	    7.9	******
+	Overbite Depth Indicator (ODI)	   82.4	   74.5	    5.0	    1.6	*
+	AB - MP (є)	   83.4	   74.0	    5.0	    1.9	*
+	ODI+APDI	  155.5	  155.0	    5.0	    0.1	
+
+Параметры из расчета по Sassouni
+	B to A Point Arc	   -4.4	    0.0	    3.0	   -1.5	*
+	U1 to ANS Arc 	    2.1	    0.0	    3.0	    0.7	
+	Pg to ANS Arc	   -5.0	    0.0	    3.0	   -1.7	*
+	Effective Length of the Premaxilla (ELP) (mm)	   12.0	   13.0	    1.5	   -0.7	
+	Dentoalveolar Compensation (DAC) (mm)	   28.6	   32.5	    1.0	   -3.9	***
+
+Дополнительные параметры
+	Saddle/Sella Angle (SN-Ar) (є)	  122.3	  123.0	    5.0	   -0.1	
+	Articular Angle (є)	  150.2	  143.0	    6.0	    1.2	*
+	Gonial/Jaw Angle (Ar-Go-Me) (є)	  119.0	  130.0	    5.0	   -2.2	**
+	 Upper Gonial Angle (Ar-Go-Na) (є)	   47.0	   55.0	    3.0	   -2.7	**
+	Occ Plane to FH (є)	    8.3	    6.0	    5.0	    0.5	
+
